@@ -1,10 +1,11 @@
 <A name="toc0_1" title="Starter web app in Golang using GAE datastore"/>
+# Starter web app in Golang using GAE datastore
 
-
+##Contents##   
 **<a href="toc1_1">Overview</a>**
-**<a href="toc1_2">Golang features</a>**
-**<a href="toc1_3">GAE features</a>**
-**<a href="toc1_4">Datastore features</a>**
+**<a href="toc1_2">Golang features</a>**  
+**<a href="toc1_3">GAE features</a>**  
+**<a href="toc1_4">Datastore features</a>**   
 
 
 <A name="toc1_1" title="Overview" />
